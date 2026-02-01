@@ -58,8 +58,8 @@ const App: React.FC = () => {
             Stop guessing, start <span className="text-emerald-600">verifying.</span>
           </h1>
           <p className="text-lg text-slate-600 max-w-2xl mx-auto leading-relaxed">
-            Analyze viral skincare hacks and hair care trends using peer-reviewed dermatological science. 
-            Because your skin deserves better than trial and error.
+            Science-backed analysis for viral skin and hair trends. 
+            Protect your health with evidence, not myths.
           </p>
         </div>
 
